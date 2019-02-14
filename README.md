@@ -1,6 +1,4 @@
 #Individual Assignment
-
-
 ##Homework: Git Practice
 
 >**Link: The Internet Was Built on the Free Labor of Open Source Developers. Is That Sustainable?**
